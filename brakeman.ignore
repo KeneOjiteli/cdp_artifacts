@@ -1,0 +1,12 @@
+{
+    "ignored_warnings": [
+        {
+          "fingerprint": "ff21c7fa4c5ef7f975a711304bcbd91447abe9723c54c59cb8e75a675ef7bf21",
+          "note": "ignore XSS"
+        },
+        {
+          "fingerprint": "edf687f759ec9765bd5db185dbc615c80af77d6e7e19386fc42934e7a80307af",
+          "note": "ignore unmaintained dependency"
+        }
+    ]
+}
